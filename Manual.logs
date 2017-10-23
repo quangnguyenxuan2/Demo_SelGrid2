@@ -1,0 +1,29 @@
+15/07/2017 20:43:28 devpinoyLogger Browser Starting
+15/07/2017 20:43:36 devpinoyLogger Click Button Login on Home Page
+15/07/2017 20:43:36 devpinoyLogger TC02_VerifyUserLoginNotSuccess_ErrorMessage
+15/07/2017 20:43:40 devpinoyLogger Login Invalid Account is success
+15/07/2017 20:43:40 devpinoyLogger ---
+15/07/2017 20:43:40 devpinoyLogger Browser Closed
+15/07/2017 20:48:10 devpinoyLogger Browser Starting
+15/07/2017 20:48:17 devpinoyLogger Click Button Login on Home Page
+15/07/2017 20:48:17 devpinoyLogger TC01_VerifyUserLoginSuccess
+15/07/2017 20:48:23 devpinoyLogger Login Valid Account is success
+15/07/2017 20:48:23 devpinoyLogger ---
+15/07/2017 20:48:23 devpinoyLogger Browser Closed
+15/07/2017 20:48:28 devpinoyLogger Browser Starting
+15/07/2017 20:48:36 devpinoyLogger Click Button Login on Home Page
+15/07/2017 20:48:36 devpinoyLogger TC02_VerifyUserLoginNotSuccess_ErrorMessage
+15/07/2017 20:48:40 devpinoyLogger Login Invalid Account is success
+15/07/2017 20:48:40 devpinoyLogger ---
+15/07/2017 20:48:40 devpinoyLogger Browser Closed
+15/07/2017 20:59:46 blackcapLogger Browser Starting
+15/07/2017 20:59:55 blackcapLogger Click Button Login on Home Page
+15/07/2017 20:59:55 blackcapLogger TC01_VerifyUserLoginSuccess
+15/07/2017 21:00:02 blackcapLogger Login Valid Account is success
+15/07/2017 21:00:02 blackcapLogger Completed test case 01
+15/07/2017 21:00:02 blackcapLogger Browser Closed
+15/07/2017 21:00:08 blackcapLogger Browser Starting
+15/07/2017 21:00:15 blackcapLogger Click Button Login on Home Page
+15/07/2017 21:00:15 blackcapLogger TC02_VerifyUserLoginNotSuccess_ErrorMessage
+15/07/2017 21:00:20 blackcapLogger Login Invalid Account is success
+15/07/2017 21:00:20 blackcapLogger Browser Closed

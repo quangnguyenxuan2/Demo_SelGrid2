@@ -1,0 +1,8 @@
+Global\Constant.class
+Object\AgreementPage.class
+Object\SignUpPage.class
+Object\UserProfilePage.class
+Utils\Common.class
+Object\HomePage.class
+Object\LoginPage.class
+Global\Browser.class

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17998" started-at="2017-10-22T08:16:08Z" finished-at="2017-10-22T08:16:26Z">
+    <groups>
+    </groups>
+    <test name="IETest" duration-ms="3246" started-at="2017-10-22T08:16:08Z" finished-at="2017-10-22T08:16:11Z">
+      <class name="BetaTest.Test_Selenium_Grid">
+        <test-method status="PASS" signature="Launch_App(java.lang.String)[pri:0, instance:BetaTest.Test_Selenium_Grid@17c68925]" name="Launch_App" is-config="true" duration-ms="3242" started-at="2017-10-22T15:16:08Z" finished-at="2017-10-22T15:16:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ie]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch_App -->
+      </class> <!-- BetaTest.Test_Selenium_Grid -->
+    </test> <!-- IETest -->
+    <test name="ChromeTest" duration-ms="11828" started-at="2017-10-22T08:16:08Z" finished-at="2017-10-22T08:16:20Z">
+      <class name="BetaTest.Test_Selenium_Grid">
+        <test-method status="PASS" signature="Launch_App(java.lang.String)[pri:0, instance:BetaTest.Test_Selenium_Grid@511baa65]" name="Launch_App" is-config="true" duration-ms="11826" started-at="2017-10-22T15:16:08Z" finished-at="2017-10-22T15:16:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch_App -->
+      </class> <!-- BetaTest.Test_Selenium_Grid -->
+    </test> <!-- ChromeTest -->
+    <test name="FirefoxTest" duration-ms="17998" started-at="2017-10-22T08:16:08Z" finished-at="2017-10-22T08:16:26Z">
+      <class name="BetaTest.Test_Selenium_Grid">
+        <test-method status="PASS" signature="Launch_App(java.lang.String)[pri:0, instance:BetaTest.Test_Selenium_Grid@7c75222b]" name="Launch_App" is-config="true" duration-ms="17996" started-at="2017-10-22T15:16:08Z" finished-at="2017-10-22T15:16:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch_App -->
+      </class> <!-- BetaTest.Test_Selenium_Grid -->
+    </test> <!-- FirefoxTest -->
+  </suite> <!-- Suite -->
+</testng-results>
