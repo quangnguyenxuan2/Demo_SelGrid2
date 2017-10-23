@@ -59,14 +59,14 @@ public class Test_Selenium_Grid {
 			System.out.println("debug-ie");
 		}
 		
-		System.out.println("Launch app process is completed");
+		System.out.println("---Launch app process is completed");
 
 	}
 	
 	@Test
 	public Test_Selenium_Grid() throws Exception{
 
-		System.out.println("Test process is completed");
+		System.out.println("---Test process is completed");
 		
 		
 	}
