@@ -26,7 +26,7 @@ public class Test_Selenium_Grid {
 		RemoteWebDriver Driver = null;
 		if (browser.equalsIgnoreCase("firefox")) {
 			System.out.println("Executing on firefox");
-			String node = "http://192.168.1.116:5557/wd/hub";
+			String node = "http://40.71.254.60:5557/wd/hub";
 			caps = new DesiredCapabilities();
 			caps.setBrowserName("firefox");
 			Driver = new RemoteWebDriver(new URL(node), caps);
@@ -36,7 +36,7 @@ public class Test_Selenium_Grid {
 		}
 		if(browser.equalsIgnoreCase("chrome")){
 			System.out.println("Executing on chrome");
-			String node = "http://192.168.1.116:5556/wd/hub";
+			String node = "http://40.71.254.60:5556/wd/hub";
 			caps = new DesiredCapabilities();
 			caps.setBrowserName("chrome");
 			caps.setPlatform(Platform.WINDOWS);
@@ -46,7 +46,7 @@ public class Test_Selenium_Grid {
 		}
 		if(browser.equalsIgnoreCase("ie")){
 			System.out.println("Executing on internet explorer");
-			String node = "http://192.168.1.116:5555/wd/hub";
+			String node = "http://40.71.254.60:5555/wd/hub";
 			caps = new DesiredCapabilities();
 			caps.setBrowserName("internet explorer");
 			caps.setPlatform(Platform.WINDOWS);
