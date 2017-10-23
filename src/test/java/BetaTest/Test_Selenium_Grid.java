@@ -32,6 +32,7 @@ public class Test_Selenium_Grid {
 			Driver = new RemoteWebDriver(new URL(node), caps);
 			Driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 			Driver.navigate().to("https://angularjs.org/");
+			System.out.println("debug-ff");
 
 		}
 		if(browser.equalsIgnoreCase("chrome")){
@@ -43,6 +44,7 @@ public class Test_Selenium_Grid {
 			Driver = new RemoteWebDriver(new URL(node), caps);
 			Driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 			Driver.navigate().to("https://angularjs.org/");
+			System.out.println("debug-ch");
 		}
 		if(browser.equalsIgnoreCase("ie")){
 			System.out.println("Executing on internet explorer");
@@ -54,6 +56,7 @@ public class Test_Selenium_Grid {
 			Driver = new RemoteWebDriver(new URL(node), caps);
 			Driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 			Driver.navigate().to("https://angularjs.org/");
+			System.out.println("debug-ie");
 		}
 		
 		System.out.println("Launch app process is completed");
