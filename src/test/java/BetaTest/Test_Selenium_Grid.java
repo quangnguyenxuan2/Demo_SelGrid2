@@ -25,7 +25,7 @@ public class Test_Selenium_Grid {
 		DesiredCapabilities caps = null;
 		RemoteWebDriver Driver = null;
 		if (browser.equalsIgnoreCase("firefox")) {
-			System.out.println("Executing on firefox 48 - gecko 15");
+			System.out.println("Executing on firefox 53 - gecko 16");
 			String node = "http://40.71.254.60:5557/wd/hub";
 			caps = new DesiredCapabilities();
 			caps.setBrowserName("firefox");
