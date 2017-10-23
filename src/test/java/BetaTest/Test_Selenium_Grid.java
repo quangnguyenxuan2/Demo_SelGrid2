@@ -66,8 +66,7 @@ public class Test_Selenium_Grid {
 	@Test
 	public Test_Selenium_Grid() throws Exception{
 
-		System.out.println("---Test process is completed");
-		
+		System.out.println("---Test process is completed");	
 		
 	}
 }
